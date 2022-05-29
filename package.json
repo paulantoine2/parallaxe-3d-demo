@@ -1,0 +1,14 @@
+{
+  "name": "3d-parallax",
+  "private": true,
+  "version": "0.0.0",
+  "author": "Paul ANTOINE | @paulcode_",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9"
+  }
+}
